@@ -2,6 +2,7 @@
     padding: 0%;
     margin: 0%;
 }
+<<<<<<< HEAD
 
 header {
     background-image: url(/image/bg.jpg);
@@ -12,6 +13,9 @@ header {
     height: 45rem;
 }
 
+=======
+/* navbar */
+>>>>>>> fad946cb999d27d86aef263a94a4ffa9137770af
 #navbar ul{
     display:flex;
     font-family: 'Libre Baskerville', serif;
