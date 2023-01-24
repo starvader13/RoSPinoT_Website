@@ -9,7 +9,7 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    height: 70rem;
+    height: 60rem;
 }
 
 /* navbar */
@@ -57,11 +57,11 @@ header {
     font-size: 3rem;
     width: 40%;
     height: auto;
-    margin-top: 12rem;
+    margin-top: 15rem;
     margin-left: 20rem;
 }
 
 #navbarContent .contentright{
     margin-right: 5rem;
-    margin-top: 1rem;
+    margin-top: 2.5rem;
 } 
