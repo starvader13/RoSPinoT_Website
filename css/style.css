@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#navbar ul{
+    display:flex;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 150;
+    font-size: 1.5rem;
+    justify-content: space-evenly;
+    margin-top: 2.5%;
+}
+
+#navbar ul li {
+    list-style: none;
+}
+
+#navbar ul li a {
+    text-decoration: none;
+}
+
+#home{
+    margin-left: 20%;
+}
